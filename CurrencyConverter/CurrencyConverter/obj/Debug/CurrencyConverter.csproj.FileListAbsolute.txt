@@ -1,0 +1,7 @@
+D:\CodeGymSub\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+D:\CodeGymSub\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+D:\CodeGymSub\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+D:\CodeGymSub\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.AssemblyReference.cache
+D:\CodeGymSub\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+D:\CodeGymSub\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+D:\CodeGymSub\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
